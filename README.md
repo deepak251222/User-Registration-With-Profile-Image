@@ -5,6 +5,8 @@ This Project Base on MVC Model
 Tech used : - Back-end :-Java, Spring Boot,JPA
           :- Front-end :- JSP
           :- MySQL
+          
+  Need - STS IDE, MySQL
 
 STEPS:-
 
